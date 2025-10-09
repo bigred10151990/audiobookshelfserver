@@ -11,7 +11,7 @@
 
 ### Default Config Changes
 - Moved the default metadata folder path to /config/metadata from /metadata.
-- Moved defualt backup path out of the metadata folder to /backup/audiobookshelfserver
+- Moved default backup path out of the metadata folder to /backup/audiobookshelfserver
 
 ### Access Changes
 - Added RW access to the backup folder in home assistant.
