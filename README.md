@@ -23,7 +23,7 @@
 [issue]: https://github.com/bigred10151990/ha-addons/issues
 [license-shield]: https://img.shields.io/github/license/bigred10151990/ha-addons.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
-[releases-shield]: https://img.shields.io/github/release/bigred10151990/ha-addons.svg
+[releases-shield]: https://img.shields.io/github/v/release/bigred10151990/audiobookshelfserver
 [releases]: https://github.com/bigred10151990/ha-addons/releases
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 
